@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T17:03:07 GMT-05:00" name="Default suite" finished-at="2023-01-04T17:03:09 GMT-05:00" duration-ms="2132">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T17:03:07 GMT-05:00" name="Default test" finished-at="2023-01-04T17:03:09 GMT-05:00" duration-ms="2132">
+      <class name="RequestUsingCRUDOperation.putProject">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:RequestUsingCRUDOperation.putProject@5d0a1059]" started-at="2023-01-04T17:03:06 GMT-05:00" name="bsConfig" finished-at="2023-01-04T17:03:07 GMT-05:00" duration-ms="1228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method signature="putProjectTest()[pri:0, instance:RequestUsingCRUDOperation.putProject@5d0a1059]" started-at="2023-01-04T17:03:07 GMT-05:00" name="putProjectTest" finished-at="2023-01-04T17:03:09 GMT-05:00" duration-ms="2081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putProjectTest -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:RequestUsingCRUDOperation.putProject@5d0a1059]" started-at="2023-01-04T17:03:09 GMT-05:00" name="asConfig" finished-at="2023-01-04T17:03:09 GMT-05:00" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- RequestUsingCRUDOperation.putProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
